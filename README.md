@@ -9,3 +9,7 @@
 
 ## About Laravel
 
+```
+php artisan serve
+npn run dev
+```
