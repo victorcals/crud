@@ -7,9 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Project setup
+
+```
+npm install
+
+```
+
+## Compiles and hot-reloads for development
 
 ```
 php artisan serve
+```
+
+```
 npn run dev
 ```
